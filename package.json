@@ -1,7 +1,7 @@
 {
   "name": "Sandbox",
   "version": "0.0.0",
-  "description": "A sandbox for experimenting",
+  "description": "A 2D physics sandbox for mucking around",
   "main": "index.html",
   "scripts": {
     "start": "./node_modules/.bin/beefy index.js --live"
