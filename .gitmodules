@@ -1,0 +1,3 @@
+[submodule "lib/Quintus"]
+	path = lib/Quintus
+	url = git@github.com:seanewest/Quintus.git
