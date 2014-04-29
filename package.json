@@ -4,6 +4,7 @@
   "description": "A 2D physics sandbox for mucking around",
   "repository": "https://github.com/seanewest/sandbox",
   "scripts": {
+    "postinstall": "git submodule update --init; cd ./lib/Quintus; npm install",
     "start": "./node_modules/.bin/beefy index.js --live"
   },
   "author": "",
