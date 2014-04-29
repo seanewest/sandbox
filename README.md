@@ -12,9 +12,8 @@ Setup
 -----------
 
 ```
-$ git clone https://github.com/seanewest/sandbox.git
-$ cd sandbox
-$ git submodule update --init
-$ npm install
-$ npm start
+git clone https://github.com/seanewest/sandbox.git
+cd sandbox
+npm install
+npm start
 ```
